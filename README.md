@@ -6,7 +6,7 @@
 [alex.navarro@danone.com]
 
 ## Table Functions:
-* Basic Functions that work on full tables:
+* Basic Functions that work on "Full" tables:
     - FILTER
     - ALL
     - VALUES
@@ -14,3 +14,11 @@
     - RELATEDTABLE
 * Their result is often used in other functions.
 * They can be combined together to form complex expressions
+
+### FILTER Table:
+
+#### Link to Microsoft DAX Documentation:
+[https://learn.microsoft.com/en-us/dax/filter-function-dax]
+
+#### Syntax:
+```FILTER(<table>,<filter>)```
