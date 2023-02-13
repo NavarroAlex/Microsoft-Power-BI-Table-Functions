@@ -69,3 +69,23 @@ DIVIDE(<numerator>, <denominator> [,<alternateresult>])
 ```
 * Link to documentation:
     - [https://learn.microsoft.com/en-us/dax/best-practices/dax-divide-function-operator]
+
+### MAX:
+* Definition:
+    - Returns the largest value in a column, or between two scalar expressions.
+Syntax:
+```
+MAX(<column>)  
+```
+* Link to documentation:
+    - [https://learn.microsoft.com/en-us/dax/max-function-dax]
+
+### MIN:
+* Definition:
+    - Returns the smallest value in a column, or between two scalar expressions..
+Syntax:
+```
+MIN(<column>)  
+```
+* Link to documentation:
+    - [https://learn.microsoft.com/en-us/dax/min-function-dax]
