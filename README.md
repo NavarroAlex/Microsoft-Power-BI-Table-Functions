@@ -18,12 +18,5 @@
 * Sophisticated Functions:
 * Designed for data models and business intelligence calculations.
 
-
-### FILTER Table:
-
-#### Link to Microsoft DAX Documentation:
-[https://learn.microsoft.com/en-us/dax/filter-function-dax]
-* filter the table based on some criteria and only the rows that meet the set condition will be returned.
-
-#### Syntax:
-```FILTER(<table>,<filter>)```
+## DAX Formatter:
+[https://www.daxformatter.com]
