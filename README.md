@@ -20,3 +20,32 @@
 
 ## DAX Formatter:
 [https://www.daxformatter.com]
+
+## DAX Type:
+* Numeric Types:
+    - Integer(64)
+    - Decimal (floating point)
+    - Curreny (money)
+    - DATE (DateTime)
+    - TRUE/FALSE (Boolean)
+* Other Types:
+    - String
+    - Binary Objects
+
+## Basic Aggregation Functions and CALCULATE:
+* CALCULATE
+* SUM
+* DIVIDE
+* AVERAGE
+* MIN
+* MAX
+
+### CALCULATE:
+* Definition:
+    - Evaluates an expression in a modified filter context.
+Syntax:
+```
+CALCULATE(<expression>[, <filter1> [, <filter2> [, …]]])
+```
+* Link to documentation:
+    - [https://learn.microsoft.com/en-us/dax/calculate-function-dax]
