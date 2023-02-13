@@ -49,3 +49,23 @@ CALCULATE(<expression>[, <filter1> [, <filter2> [, …]]])
 ```
 * Link to documentation:
     - [https://learn.microsoft.com/en-us/dax/calculate-function-dax]
+
+### SUM:
+* Definition:
+    - Adds all the numbers in a column.
+Syntax:
+```
+SUM(<column>)
+```
+* Link to documentation:
+    - [https://learn.microsoft.com/en-us/dax/sum-function-dax]
+
+### DIVIDE:
+* Definition:
+    - Adds all the numbers in a column.
+Syntax:
+```
+DIVIDE(<numerator>, <denominator> [,<alternateresult>])
+```
+* Link to documentation:
+    - [https://learn.microsoft.com/en-us/dax/best-practices/dax-divide-function-operator]
